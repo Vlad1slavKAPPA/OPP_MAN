@@ -1,0 +1,7 @@
+D:\Лабы, проекты\opp_man1\bin\Debug\opp_man1.exe.config
+D:\Лабы, проекты\opp_man1\bin\Debug\opp_man1.exe
+D:\Лабы, проекты\opp_man1\bin\Debug\opp_man1.pdb
+D:\Лабы, проекты\opp_man1\obj\Debug\opp_man1.csproj.AssemblyReference.cache
+D:\Лабы, проекты\opp_man1\obj\Debug\opp_man1.csproj.CoreCompileInputs.cache
+D:\Лабы, проекты\opp_man1\obj\Debug\opp_man1.exe
+D:\Лабы, проекты\opp_man1\obj\Debug\opp_man1.pdb
